@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Rohit kumar
 - 👀 I’m interested in Full stack website developing
-- 🌱 I’m currently learning CSS
-- 💞️ I’m looking to collaborate on website projects.
+- 🌱 I am currently learning backend development particularly about API's and database
+- 💞️ I’m looking to collaborate on website and API projects.
 - 📫 reach me at info@pengodigital.com
 
 <!---
