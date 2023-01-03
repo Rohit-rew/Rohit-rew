@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **DSA**
 
-- 👨‍💻 All of my projects are available at [rohit.codes](rohit.codes)
+- 👨‍💻 All of my projects are available at [www.rohit.codes](rohit.codes)
 
 - 💬 Ask me about **React**
 
