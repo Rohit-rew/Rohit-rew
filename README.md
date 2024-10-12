@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rohit Kumar</h1>
 <h3 align="center">A passionate FullStack developer from India</h3>
 
-- 🔭 I’m currently working on **Whatsapp Clone**
+- 🔭 I’m currently working on **Meditation App**
 
-- 🌱 I’m currently learning **DSA**
+- 🌱 I’m currently learning **Flutter**
 
 - 👨‍💻 All of my projects are available at [www.rohit.codes](rohit.codes)
 
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **rohit.rew@gmail.com**
 
-- ⚡ Fun fact **I spend my whole day coading**
+- ⚡ Fun fact **I am back after a break**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
